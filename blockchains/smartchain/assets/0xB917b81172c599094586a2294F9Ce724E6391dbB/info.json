@@ -1,0 +1,11 @@
+{
+    "name": "SGB",
+    "type": "BEP20",
+    "symbol": "SGB",
+    "decimals": 6,
+    "website": "https://www.subgame.org/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xB917b81172c599094586a2294F9Ce724E6391dbB",
+    "status": "active",
+    "id": "0xB917b81172c599094586a2294F9Ce724E6391dbB"
+}
